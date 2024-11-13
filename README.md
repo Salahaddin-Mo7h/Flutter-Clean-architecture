@@ -1,6 +1,6 @@
 # scb_arch_demo
 
-A new Flutter project.
+this project demonstrate clean arch using flutter
 
 ## Getting Started
 
