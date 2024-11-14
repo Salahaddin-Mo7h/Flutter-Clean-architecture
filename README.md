@@ -1,4 +1,4 @@
-# scb_arch_demo
+# clean_arch_demo
 
 this project demonstrate clean arch using flutter
 
